@@ -1,39 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mohamed Gomaa</h1>
+<h2>
+  👋 Hello, I'm Mohamed Gomaa!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h2>
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Analyst+📊;Software+Engineering+Student+🎓;Problem+Solver+🧠;Turning+Data+Into+Insights+📈" />
-</h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
----
-
-## 🚀 About Me
-- 🎓 Software Engineering Student  
-- 📊 Data Analyst focused on turning data into insights  
-- 🧠 Strong interest in data visualization & analytics  
-- 🚀 Constantly improving my technical skills  
-- 💡 Love solving real-world problems with data  
+<p><em>
+📊 Data Analyst | Software Engineering Student  
+💻 Passionate about Data, Insights & Visualization
+</em></p>
 
 ---
 
-## ⚙️ Skills
+### 🚀 About Me
 
-**📊 Data & Analysis**
-- Python  
-- SQL  
-- Data Analysis  
-
-**📚 Libraries**
-- Pandas  
-- NumPy  
-- Matplotlib  
-
-**🛠 Tools**
-- Git & GitHub  
-- Excel  
-- Jupyter Notebook  
+- 📊 Data Analyst with strong skills in data analysis & visualization  
+- 🐍 Working with Python for data processing  
+- 📈 Building dashboards using Power BI  
+- 🧠 Always learning and improving my skills  
+- 🎯 Goal: Turn data into actionable insights  
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Skills & Tools
 
-<p align
+```python
+Mohamed = {
+    "languages": ["Python", "SQL"],
+    "data_tools": ["Excel", "Power BI", "Tableau"],
+    "libraries": ["pandas", "numpy", "matplotlib"],
+    "skills": [
+        "Data Cleaning",
+        "Data Analysis",
+        "Data Visualization",
+        "Dashboard Building"
+    ]
+}
