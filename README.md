@@ -7,32 +7,33 @@
 
 <p><em>
 📊 Data Analyst | Software Engineering Student  
-💻 Passionate about Data, Insights & Visualization
+💻 Focused on Data Analysis & Visualization
 </em></p>
 
 ---
 
 ### 🚀 About Me
 
-- 📊 Data Analyst with strong skills in data analysis & visualization  
-- 🐍 Working with Python for data processing  
+- 📊 **Data Analyst** focused on extracting insights from data  
+- 🧠 Strong in **Problem Solving** and logical thinking  
+- 🐍 Using Python for data analysis  
 - 📈 Building dashboards using Power BI  
-- 🧠 Always learning and improving my skills  
-- 🎯 Goal: Turn data into actionable insights  
+- 🎯 Turning raw data into meaningful insights  
 
 ---
 
 ### 🛠️ Skills & Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+</p>
+
 ```python
 Mohamed = {
+    "main_focus": "Data Analysis",
+    
     "languages": ["Python", "SQL"],
+    
     "data_tools": ["Excel", "Power BI", "Tableau"],
-    "libraries": ["pandas", "numpy", "matplotlib"],
-    "skills": [
-        "Data Cleaning",
-        "Data Analysis",
-        "Data Visualization",
-        "Dashboard Building"
-    ]
-}
+    
+    "programming_background": [
