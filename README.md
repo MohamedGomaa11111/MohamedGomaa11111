@@ -1,50 +1,82 @@
-<h2>
-  👋 Hello, I'm Mohamed Gomaa!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h2>
+![Data](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<p><em>
-📊 Data Analyst | Software Engineering Student  
-💻 Focused on Data Analysis & Visualization
-</em></p>
+<h3 align="center">
+📊 Data Analyst | Software Engineering Student | Problem Solving Enthusiast
+</h3>
 
 ---
 
-### 🚀 About Me
+## A little bit about me
 
-- 📊 **Data Analyst** focused on extracting insights from data  
-- 🧠 Strong in **Problem Solving** and logical thinking  
-- 🐍 Using Python for data analysis  
-- 📈 Building dashboards using Power BI  
-- 🎯 Turning raw data into meaningful insights  
+🎓 I'm a Software Engineering student at the Arab Academy.  
+📊 My main focus is **Data Analysis and Visualization**.  
+🧠 Strong background in **Problem Solving** and algorithms.  
+🐍 I use Python for data analysis and automation.  
+📈 I build dashboards using Power BI and analyze data using Excel & SQL.  
+🏆 Participated in **ECPC (Egyptian Collegiate Programming Contest)**.  
+🎯 My goal is to turn raw data into meaningful insights.  
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Core Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+- Data Analysis  
+- Data Cleaning  
+- Data Visualization  
+- Dashboard Building  
+- Problem Solving  
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Python  
+- SQL  
+- Excel  
+- Power BI  
+- Tableau  
+
+---
+
+## 💻 Additional Programming Skills
+
+> (Strong background supporting my data analysis work)
+
+- C  
+- C++  
+- Java  
+- Object-Oriented Programming (OOP)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedGomaa11111&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGomaa11111&layout=compact" />
 </p>
 
-```python
-Mohamed = {
-    "main_focus": "Data Analysis",
-    
-    "languages": ["Python", "SQL"],
-    
-    "data_tools": ["Excel", "Power BI", "Tableau"],
-    
-    "programming_background": [
-        "C", "C++", "Java", "OOP"
-    ],
-    
-    "core_skills": [
-        "Data Cleaning",
-        "Data Analysis",
-        "Data Visualization",
-        "Dashboard Building",
-        "Problem Solving"
-    ]
-}
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-gomaa-b405582a9">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:your_email_here">
+    <img src="https://img.icons8.com/color/32/000000/gmail.png"/>
+  </a>
+</p>
+
+---
+
+## 💡 Note
+
+This profile focuses on **Data Analysis**, while programming skills support my analytical work.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to opportunities and collaborations in data analysis 💙
