@@ -37,3 +37,14 @@ Mohamed = {
     "data_tools": ["Excel", "Power BI", "Tableau"],
     
     "programming_background": [
+        "C", "C++", "Java", "OOP"
+    ],
+    
+    "core_skills": [
+        "Data Cleaning",
+        "Data Analysis",
+        "Data Visualization",
+        "Dashboard Building",
+        "Problem Solving"
+    ]
+}
