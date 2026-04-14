@@ -1,68 +1,39 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gomaa</h1>
 
 <h3 align="center">
-Data Analyst 📊 | Software Engineering Student 🎓 | Problem Solver 🧠
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Analyst+📊;Software+Engineering+Student+🎓;Problem+Solver+🧠;Turning+Data+Into+Insights+📈" />
 </h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Software Engineering Student  
-- 📊 Data Analyst focused on insights & visualization  
-- 🧠 Turning raw data into meaningful decisions  
-- 🚀 Always improving my technical & analytical skills  
-- 💡 Passionate about solving real-world problems  
+- 📊 Data Analyst focused on turning data into insights  
+- 🧠 Strong interest in data visualization & analytics  
+- 🚀 Constantly improving my technical skills  
+- 💡 Love solving real-world problems with data  
 
 ---
 
 ## ⚙️ Skills
 
-**Programming & Data**
+**📊 Data & Analysis**
 - Python  
 - SQL  
 - Data Analysis  
 
-**Libraries**
+**📚 Libraries**
 - Pandas  
 - NumPy  
 - Matplotlib  
 
-**Tools**
+**🛠 Tools**
 - Git & GitHub  
-- Excel (Data Handling Basics)  
+- Excel  
+- Jupyter Notebook  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedGomaa11111&show_icons=true&theme=default" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGomaa11111&layout=compact&theme=default" height="180"/>
-</p>
-
----
-
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGomaa11111&theme=default" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- 📍 LinkedIn:  
-  https://www.linkedin.com/in/mohamed-gomaa-b405582a9  
-
-- 💻 GitHub:  
-  https://github.com/MohamedGomaa11111  
-
----
-
-## 💡 Quote
-
-> “Data is not just numbers, it tells a story.”
+<p align
